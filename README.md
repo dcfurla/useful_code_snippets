@@ -1,4 +1,4 @@
-# useful_code_snippets
+# Useful code snippets
 
 This code repository is dedicated to share snippets of code I thought to be useful, being python, shell scripting, or any other language I am using currently.
 
